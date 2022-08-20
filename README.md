@@ -19,7 +19,15 @@
 
 <!--- ![SewaRumahNakBayaBileGIF](https://user-images.githubusercontent.com/103529859/185753722-d1edd9c9-3708-49be-87c8-6643a4c47e3f.gif) --->
 
-ThankYou Future Ready Talent, Microsoft Azure , Github for providing such a value adding course 🙇🙇🙇
+## ***Thank You*** 
+#### Future Ready Talent, Microsoft Azure, Github for providing such a value adding course 🙇🙇🙇
+
+
+![MicrosoftIntroGIF](https://user-images.githubusercontent.com/103529859/185754308-4177def4-2464-4345-bfbd-1b29132662c0.gif)
+
+
+<!-- ![AzureGIF](https://user-images.githubusercontent.com/103529859/185754334-b9b7b75a-37df-49bb-bba3-f59b64a00232.gif) -->
+
 
 
 
